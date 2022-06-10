@@ -109,7 +109,7 @@ int main()
     int isContain = 0;
 
 
-    //taking element in binarytree
+    //taking element in binarytree 
     while(numberOfElements >= i)
     {
         int value = rand() % 25 + 1; //creating random numbers between 1-25
