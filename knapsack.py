@@ -75,4 +75,4 @@ def main():
 
   knapsack(item_list(numitems,kapasite),kapasite)
 
-main()
+main() 
