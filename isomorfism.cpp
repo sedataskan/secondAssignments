@@ -184,7 +184,7 @@ int main() {
     cout<<"number of V and E for graph 2: ";
     cin>>v2>>e2;
 
-    ////graflar gerekli sartlari sagliyorsa komsuluk matrisleri olusturulur
+    ////graflar gerekli sartlari sagliyorsa komsuluk matrisleri olusturulur 
     if(v1==v2 && e1==e2){//rule 1 -> dugum sayilari esit
                          //rule 2 -> baglanti sayilari esit
         int a,b;
